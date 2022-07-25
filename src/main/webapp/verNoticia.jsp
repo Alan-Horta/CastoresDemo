@@ -13,7 +13,7 @@
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
         <script src="https://kit.fontawesome.com/3556f97ea7.js" crossorigin="anonymous"></script>
-        <title>JSP Page</title>
+        <title>Castores Test Alan</title>
     </head>
     <body>
         <jsp:include page="WEB-INF/paginas/comun/headUser.jsp"/>
