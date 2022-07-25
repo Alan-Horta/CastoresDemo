@@ -18,8 +18,8 @@ import org.apache.commons.dbcp2.BasicDataSource;
 public class Conexion {
     //Requerimientos de castores
     private static final String JDBC_URL="jdbc:mysql://192.168.0.126:3306/castores_test_alan?useSSL=false&useTimezone=true&serverTimeZone=UTC&allowPublicKeyRetrieval=true";
-    private static final String JDBC_USER="root";
-    private static final String JDBC_PASSWORD="password";
+    private static final String JDBC_USER="prueba";
+    private static final String JDBC_PASSWORD="prueba";
     //Uso interno
     /*private static final String JDBC_URL="jdbc:mysql://localhost:3306/castores_test_alan?useSSL=false&useTimezone=true&serverTimeZone=UTC&allowPublicKeyRetrieval=true";
     private static final String JDBC_USER="root";
