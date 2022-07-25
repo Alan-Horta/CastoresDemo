@@ -1,0 +1,15 @@
+web\CRUD.class
+web\Conexion.class
+web\CRUD$CRUDPersonal.class
+modelo\dao\UsuarioDao.class
+modelo\Comentario.class
+web\CRUD$CRUDComentarios.class
+web\CRUD$CRUDUser.class
+web\CRUD$CRUDNoticias.class
+modelo\dao\NoticionDao.class
+modelo\Noticion.class
+modelo\dao\PersonalDao.class
+modelo\dao\ComentarioDao.class
+modelo\Personal.class
+modelo\Usuario.class
+web\ControladorServlets.class
