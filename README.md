@@ -15,9 +15,9 @@ La aplicacion requiere el uso de MySql, el default path esta configurado a `JDBC
 
 `Puerto: 3306`
 
-La aplicacion requiere que exista un Schema con el nombre `castores_test_alan` y el cual esta incluido [aqui](https://github.com/Alan-Horta/AngularViseDemo)
+La aplicacion requiere que exista un Schema con el nombre `castores_test_alan` y el cual esta incluido [aqui](https://github.com/Alan-Horta/CastoresDemo/tree/master/extras) en la carpeta de extras
 
-Para la conexion a la base de datos, se uso la ultima version de [my-sql-connector-java](https://github.com/Alan-Horta/AngularViseDemo) disponible al momento, la [8.0.29](https://github.com/Alan-Horta/AngularViseDemo)
+Para la conexion a la base de datos, se uso la ultima version de [my-sql-connector-java](https://github.com/Alan-Horta/AngularViseDemo) disponible al momento, la [8.0.29](https://github.com/Alan-Horta/CastoresDemo/tree/master/extras) incluido en la carpeta de extras
 
 ### Instrucciones de uso
 
